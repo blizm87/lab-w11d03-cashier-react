@@ -1,0 +1,11 @@
+.shoppingCart {
+  border: 5px solid orange;
+  display: inline-block;
+  width: 99.3%;
+}
+
+.shoppingCart > h1 {
+  text-align: center;
+  border-bottom: 5px solid orange;
+  padding-bottom: .7em;
+}
